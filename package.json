@@ -3,11 +3,11 @@
   "version": "2.0.15",
   "description": "Provide I18n to your React Native application",
   "license": "MIT",
-  "author": "Alexander Zaytsev",
+  "author": "Alexander Zaytsev - Synappz",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "github.com/AlexanderZaytsev/react-native-i18n.git"
+    "url": "github.com/SynappzMA/react-native-i18n.git"
   },
   "keywords": [
     "react-native",
@@ -16,6 +16,6 @@
     "i18n"
   ],
   "dependencies": {
-    "i18n-js": "3.0.11"
+    "i18n-js": "3.2.1"
   }
 }
